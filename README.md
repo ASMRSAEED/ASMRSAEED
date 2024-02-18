@@ -1,5 +1,3 @@
-![Frontend Developer](https://media-exp2.licdn.com/dms/image/C4E16AQFrRMLW7VLyHg/profile-displaybackgroundimage-shrink_350_1400/0/1654629205652?e=1660176000&v=beta&t=cKq0WDU27ofoUh1PW3-tAIK1Lqg1kI0G58V3LdXNXV8)
-
 ### Hi there 👋, I'm A. S M Rafiqullah
 #### Frontend Developer
 
