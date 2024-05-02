@@ -18,7 +18,3 @@ Skills: HTML, CSS, Bootstrap, Tailwind, JavaScript, React.js, Node.js, MongoDB, 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASMRSAEED)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ASMRSAEED&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ASMRSAEED)  
-
-![Profile views](https://gpvc.arturio.dev/ASMRSAEED)  
